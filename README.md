@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshada Kashyap</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
 
-- 🔭 I’m currently working on [LitGuide-AI](https://github.com/eden-max-stack/LitGuide-AI) and [Migrainez](https://github.com/eden-max-stack/Migrainez) :)
+- 🔭 I’m currently working on [LitGuide-AI](https://github.com/eden-max-stack/LitGuide-AI), [Automated Schedule-Mapping with Google Calendar](https://github.com/eden-max-stack/Automated-Schedule-Mapping-Project), and [Migrainez](https://github.com/eden-max-stack/Migrainez) :)
 
 - 🌱 I’m currently learning **ReactJS, Langchain, Docker**
 

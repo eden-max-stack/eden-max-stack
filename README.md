@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LitGuide-AI](https://github.com/eden-max-stack/LitGuide-AI), [Automated Schedule-Mapping with Google Calendar](https://github.com/eden-max-stack/Automated-Schedule-Mapping-Project), and [Migrainez](https://github.com/eden-max-stack/Migrainez) :)
 
-- 🌱 I’m currently learning **ReactJS, Langchain, Docker**
+- 🌱 I’m currently learning **ReactTS, Langchain, Docker, and Tableau**
 
 - 👯 I’m looking to collaborate on **AI projects to enhance productivity**
 
